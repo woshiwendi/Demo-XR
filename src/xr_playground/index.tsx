@@ -17,7 +17,7 @@ const store = createXRStore({
     left: { rayPointer: { rayModel: { color: 'black' } } },
     right: { rayPointer: { rayModel: { color: 'black' } } },
   },
-  emulate: 'metaQuest3',
+  //emulate: 'metaQuest3',
   enterGrantedSession: true,
   screenInput: true,
   handTracking: false,
